@@ -38,6 +38,9 @@ Pillow==10.3.0
 # --- HTTP ---
 requests==2.31.0
 
+setuptools
+
+
 # ============================================================
 #  LIBRERÍAS ELIMINADAS vs requirements.txt original:
 #  - openpyxl: no se usa en ninguna parte de la app (ahorra ~30s de build)
