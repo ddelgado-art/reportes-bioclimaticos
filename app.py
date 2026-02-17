@@ -27,6 +27,12 @@ CORRECCIONES PREVIAS MANTENIDAS (de app_auditada_v2.py):
   [FIX-D2] Firma insertar_subdocumento_memoria unificada → corregido
   [FIX-E1] Plantilla buscada como 'Plantilla_Reporte.docx' → corregido
 """
+try:
+    import pkg_resources
+except ImportError:
+    import setuptools
+    import pkg_resources
+
 
 import streamlit as st
 import pandas as pd
