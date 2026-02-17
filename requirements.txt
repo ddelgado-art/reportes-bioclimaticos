@@ -21,7 +21,7 @@ shapely==2.0.4          # >= 2.0 requerido por geopandas moderno
 pvlib==0.10.5           # Pinnado: read_epw() estable con pandas 2.x
 
 # --- Confort Térmico ---
-pythermalcomfort==2.24.0  # Pinnado: keys tmp_cmf_90_low/up confirmadas
+pythermalcomfort==2.10.0  # Pinnado: keys tmp_cmf_90_low/up confirmadas
 
 # --- Generación de Documentos Word ---
 docxtpl==0.16.7
