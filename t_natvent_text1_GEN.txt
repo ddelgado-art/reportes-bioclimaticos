@@ -1,0 +1,2 @@
+Basándose en los requerimientos de la Resolución 350 de 2022, así como también en la NTC 5183 de 2003 y el estándar americano ANSI/ASHRAE 62.1 con relación a la ventilación para una calidad aceptable de aire interior, se determinan los requerimientos de renovaciones de aire para cada uno de los espacios del proyecto.
+Las áreas ocupadas deben contar con unas cantidades mínimas de renovaciones de aire dependiendo de su actividad, su densidad de ocupación y su superficie

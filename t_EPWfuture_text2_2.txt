@@ -1,0 +1,1 @@
+Este archivo representa un año meteorológico típico (TMY) basado en datos históricos contemporáneos

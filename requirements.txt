@@ -1,0 +1,51 @@
+# ============================================================
+#  requirements.txt — Reportes Bioclimáticos
+#  Optimizado para Streamlit Community Cloud (Ubuntu 22.04)
+#  Versiones pinnadas para builds 100% reproducibles
+#  Generado: Auditoría Pre-Deploy v2 — Febrero 2026
+# ============================================================
+
+# --- Core Streamlit ---
+streamlit==1.32.2
+
+# --- Data Science ---
+pandas==2.1.4
+numpy==1.26.4           # < 2.0 requerido por pythermalcomfort y windrose
+
+# --- Geoespacial ---
+geopandas==0.14.3
+shapely==2.0.4          # >= 2.0 requerido por geopandas moderno
+# NOTA: pyproj y fiona se instalan como dependencias de geopandas
+
+# --- EPW / Energía Solar ---
+pvlib==0.10.5           # Pinnado: read_epw() estable con pandas 2.x
+
+# --- Confort Térmico ---
+pythermalcomfort==2.24.0  # Pinnado: keys tmp_cmf_90_low/up confirmadas
+
+# --- Generación de Documentos Word ---
+docxtpl==0.16.7
+python-docx==1.1.0
+
+# --- Visualización ---
+matplotlib==3.8.4       # Pinnado: compatible con windrose 1.9.x y seaborn 0.13.x
+seaborn==0.13.2
+windrose==1.9.1         # Pinnado: WindroseAxes.from_ax() compatible con mpl 3.8.x
+
+# --- Procesamiento de Imágenes ---
+Pillow==10.3.0
+
+# --- HTTP ---
+requests==2.31.0
+
+# ============================================================
+#  LIBRERÍAS ELIMINADAS vs requirements.txt original:
+#  - openpyxl: no se usa en ninguna parte de la app (ahorra ~30s de build)
+#
+#  NOTAS DE COMPATIBILIDAD:
+#  - numpy 1.26.x es la última serie < 2.0; compatible con todos los paquetes
+#  - matplotlib 3.8.4 es la versión más reciente sin rompimientos para windrose
+#  - pvlib 0.10.5 acepta UploadedFile de Streamlit como file-like object
+#  - pythermalcomfort 2.24.0: adaptive_ashrae() retorna dict con claves
+#    tmp_cmf_90_low, tmp_cmf_90_up, tmp_cmf_80_low, tmp_cmf_80_up
+# ============================================================

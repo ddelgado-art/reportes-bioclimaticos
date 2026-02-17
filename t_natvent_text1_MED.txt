@@ -1,0 +1,6 @@
+Los hospitales son espacios donde la calidad de aire interior es de suma importancia para el bienestar de los pacientes, el personal y los visitantes. La calidad del aire debe ser adecuada y variará dependiendo del área en cuestión, desde los quirófanos y unidades de cuidados intensivos que requieren altos estándares de asepsia, hasta áreas de recepción y corredores que tienen requisitos de calidad menos estrictos. 
+
+Basándose en el estándar americano ANSI/ASHRAE Standard 170 con relación a los requerimientos que proporcionan un control del confort ambiental, la asepsia y los olores en los centros sanitarios, se determinan los requerimientos de renovaciones de aire críticos.
+
+Adicionalmente, para los espacios no especificados en el Estándar 170 (como áreas administrativas o de flujo público general), los índices de ventilación se obtendrán de la norma ANSI/ASHRAE 62.1Para la definición de los caudales de diseño, se aplica el siguiente criterio de jerarquía normativa: si existen espacios con tasas prescritas en ambos estándares, se utilizará la tasa de cambio de aire mayor, garantizando así el escenario más seguro para la salud.
+

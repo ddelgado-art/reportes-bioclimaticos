@@ -1,0 +1,37 @@
+﻿Group;Grupo_Es;Category;Categoria_Es;Exhaust Rate (cfm/unit);Exhaust Rate (cfm/ft²);Notes;Exhaust Rate (L/s·unit);Exhaust Rate (L/s·m²);Air Class;ANI;ASM;COR;EDU;FOD;IND;INF;LAB;LOD;LOG;MED;MSC;OFF;RES;RET;SPT
+Group;Grupo_Es;Category;Categoria_Es;Exh_cfm_u;Exh_cfm_a;Notes;Exh_Ls_u;Exh_Ls_a;Class;ANI;ASM;COR;EDU;FOD;IND;INF;LAB;LOD;LOG;MED;MSC;OFF;RES;RET;SPT
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Animal imaging (MRI/CT/PET);Imagenología animal (IRM/TC/PET);;0.9;;;4.5;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Animal operating rooms;Quirófanos para animales;;3.0;;;15.0;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Animal postoperative recovery room;Sala de recuperación postoperatoria para animales;;1.5;;;7.5;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Animal preparation rooms;Salas de preparación para animales;;1.5;;;7.5;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Animal procedure room;Sala de procedimientos para animales;;2.25;;;11.3;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Animal surgery scrub;Lavado quirúrgico para animales;;1.5;;;7.5;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Large-animal holding room;Sala de alojamiento para animales grandes;;2.25;;;11.3;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Necropsy;Necropsia;;2.25;;;11.3;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Small-animal-cage room (static cages);Sala de jaulas para animales pequeños (jaulas estáticas);;2.25;;;11.3;3;X;;;;;;;;;;;;;;;
+ANIMAL FACILITIES;INSTALACIONES PARA ANIMALES;Small-animal-cage room (ventilated cages);Sala de jaulas para animales pequeños (jaulas ventiladas);;1.5;;;7.5;3;X;;;;;;;;;;;;;;;
+GENERAL;GENERAL;Arenas;Arenas/Estadios;;0.5;B;;;1;;X;;;;;;;;;;;;;;X
+GENERAL;GENERAL;Art classrooms;Aulas de arte;;0.7;;;3.5;2;;;;X;;;;;;;;;;;;
+GENERAL;GENERAL;Auto repair rooms;Salas de reparación de automóviles;;1.5;A;;7.5;2;;;;;;X;;;;;;;;;;
+GENERAL;GENERAL;Barber shops;Barberías;;0.5;;;2.5;2;;;;;;;;;;;;;;;X;
+GENERAL;GENERAL;Beauty and nail salons;Salones de belleza y manicura;;0.6;;;3.0;2;;;;;;;;;;;;;;;X;
+GENERAL;GENERAL;Cells with toilet;Celdas con inodoro;;1.0;;;5.0;2;;;X;;;;;;;;;;;;;
+GENERAL;GENERAL;Copy printing rooms;Salas de copiado e impresión;;0.5;;;2.5;2;;;;;;;;;;;;X;X;;;
+GENERAL;GENERAL;Darkrooms;Cuartos oscuros;;1.0;;;5.0;2;;;;;;;;X;;;;X;;;;
+GENERAL;GENERAL;Educational science laboratories;Laboratorios de ciencias educativas;;1.0;;;5.0;2;;;;X;;;;X;;;;;;;;
+GENERAL;GENERAL;Janitor closets trash rooms recycling;Cuartos de limpieza, basura y reciclaje;;1.0;;;5.0;3;;;;;;;;;;;;X;;;;
+GENERAL;GENERAL;Kitchenettes;Cocinetas;;0.3;;;1.5;2;;;;;;;;;;;;X;X;;;
+GENERAL;GENERAL;Kitchens commercial;Cocinas comerciales;;0.7;;;3.5;2;;;;;X;;;;;;;;;;;
+GENERAL;GENERAL;Locker rooms (athletic/industrial/healthcare);Vestuarios (deportivos/industriales/sanitarios);;0.5;;;2.5;2;;;;;;X;;;;;X;X;;;;X
+GENERAL;GENERAL;All other locker rooms;Todos los demás vestuarios;;0.25;;;1.25;2;;;;;;;;;;;;X;;;;
+GENERAL;GENERAL;Shower rooms;Duchas;20/50;;G,I;25 / 50;;2;;;;;;;;;;;;X;;X;;X
+GENERAL;GENERAL;Paint spray booths;Cabinas de pintura por pulverización;;;F;;;4;;;;;;X;;;;;;;;;;
+GENERAL;GENERAL;Parking garages;Garajes de estacionamiento;;0.75;C;;3.7;2;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+GENERAL;GENERAL;Pet shops (animal areas);Tiendas de mascotas (áreas para animales);;0.9;;;4.5;2;X;;;;;;;;;;;;;;X;
+GENERAL;GENERAL;Refrigerating machinery rooms;Salas de máquinas de refrigeración;;;F;;;3;;;;;;;X;;;;;X;;;;
+GENERAL;GENERAL;Residential kitchens;Cocinas residenciales;50/100;;G;25 / 50;;2;;;;;;;;;;;;;;X;;
+GENERAL;GENERAL;Soiled laundry storage rooms;Salas de almacenamiento de ropa sucia;;1.0;F;;5.0;3;;;;;;;;;X;;X;X;;;;
+GENERAL;GENERAL;Storage rooms chemical;Salas de almacenamiento de productos químicos;;1.5;F;;7.5;4;;;;;;X;;X;;;;X;;;;
+GENERAL;GENERAL;Toilets-private;Baños privados;25/50;;E,H;12.5 / 25;;2;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+GENERAL;GENERAL;Toilets public;Baños públicos;50/70;;D,H;25 / 35;;2;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+GENERAL;GENERAL;Woodwork shop/classrooms;Taller/aulas de carpintería;;0.5;;;2.5;2;;;;X;;X;;;;;;;;;;

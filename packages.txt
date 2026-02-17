@@ -1,0 +1,4 @@
+libgeos-dev
+libgeos-c1v5
+libspatialindex-dev
+libgl1-mesa-glx

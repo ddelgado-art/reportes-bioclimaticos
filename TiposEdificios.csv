@@ -1,0 +1,17 @@
+ID;Type;Tipo;Descripcion
+ANI;Animal Facilities;Veterinaria y Animales;Clínicas veterinarias, refugios de animales, centros de cuidado de mascotas y laboratorios de investigación animal
+ASM;Assembly;Reunion publica;Auditorios lugares de culto cines museos bibliotecas terminales de transporte y casinos
+COR;Correctional;Correccional;Centros de reclusion celdas areas de guardia y comedores de reclusos
+EDU;Education;Educativo y Cultural;Instituciones educativas aulas guarderias laboratorios de ensenanza y pasillos escolares
+FOD;Food Service;Alimentos y Bebidas;Restaurantes cafeterias bares comedores cocinas comerciales y areas de comida rapida
+IND;Industrial;Manufactura y Procesamiento;Plantas de produccion fabricas talleres de manufactura y areas de procesamiento industrial
+INF;Infrastructure;Infraestructura Especializada;Plantas de tratamiento subestaciones electricas y centros de servicios tecnicos especializados
+LAB;Laboratory;Laboratorios e Investigación;Centros de investigacion cientifica laboratorios de desarrollo tecnologico biotecnologia y laboratorios de pruebas no medicas ni veterinarias
+LOD;Lodging;Hospedaje y Hoteleria;Hoteles moteles resorts hostales y salones de eventos en instalaciones hoteleras
+LOG;Logistics;Logistica y Bodegas;Centros de distribucion bodegas de almacenamiento muelles de carga y gestion de inventarios
+MED;Healthcare;Salud y Hospitalario;Hospitales clinicas centros de salud laboratorios medicos y areas de consulta externa (No incluye medicina veterinaria ni investigacion animal)
+MSC;Miscellaneous;Miscelaneos y Servicios;Estacionamientos cuartos de maquinas depositos generales y areas de servicios comunes
+OFF;Office;Oficinas;Espacios corporativos centros de llamadas salas de juntas y centros de datos
+RES;Residential;Residencial;Vivienda multifamiliar apartamentos condominios y zonas comunes residenciales
+RET;Retail;Comercial y Tiendas;Centros comerciales locales de venta al por menor farmacias y grandes superficies
+SPT;Sports;Deportivo y Recreativo;Gimnasios estadios coliseos piscinas y clubes sociales o recreativos
