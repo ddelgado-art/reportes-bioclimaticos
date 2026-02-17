@@ -39,7 +39,8 @@ Pillow==10.3.0
 requests==2.31.0
 
 setuptools
-
+docxtpl
+docxcompose
 
 # ============================================================
 #  LIBRERÍAS ELIMINADAS vs requirements.txt original:
